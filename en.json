@@ -1,0 +1,45 @@
+{
+  "Status": "Status",
+  "Farm": "Farm",
+  "Settings Farm": "Settings",
+  "Misc": "Misc",
+  "Teleport": "Teleport",
+  "Loja": "Shop",
+
+  "Bosses": "Bosses",
+  "Ilhas": "Islands",
+  "Mar": "Sea",
+  "Server Info": "Server Info",
+
+  "Configuração": "Configuration",
+  "Chest Farm": "Chest Farm",
+  "Tyrant of the Skies": "Tyrant of the Skies",
+  "Elite Quest": "Elite Quest",
+  "Pirate Raid": "Pirate Raid",
+  "Auto Raid": "Auto Raid",
+  "Material": "Material",
+
+  "Idioma / Language": "Language",
+  "Arma & Velocidade": "Weapon & Speed",
+  "Bring (Puxar Inimigos)": "Bring (Pull Enemies)",
+  "Haki": "Haki",
+  "Fast Attack": "Fast Attack",
+  "Status Points": "Status Points",
+
+  "Performance": "Performance",
+  "Visual": "Visual",
+  "Utility": "Utility",
+
+  "Viajar": "Travel",
+  "Auto Island": "Auto Island",
+  "Auto NPC": "Auto NPC",
+
+  "Erro": "Error",
+  "Fighting Styles": "Fighting Styles",
+  "Hakis e Habilidades": "Hakis & Abilities",
+  "Espadas": "Swords",
+  "Armas de Fogo": "Guns",
+  "Barcos": "Boats",
+  "Acessorios": "Accessories",
+  "Stats e Racas": "Stats & Races"
+}
